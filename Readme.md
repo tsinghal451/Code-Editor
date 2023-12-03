@@ -53,4 +53,9 @@ body {
 
 4. **Have Fun Coding!**
     - Enjoy using the code editor for your projects. Happy coding!
+  
+## Author
+
+   **Tushar Singhal**
+
 
