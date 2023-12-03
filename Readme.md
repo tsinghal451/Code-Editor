@@ -9,19 +9,28 @@ A simple web-based code editor built with HTML, CSS, and JavaScript.
 - Dark and light theme options.
 - Responsive design for various screen sizes.
 
-## Demo
-
-You can try out the [live demo here](#).
-
-## Screenshots
-
-![Code Editor Screenshot]("C:\Users\pc\Pictures\Screenshots\Screenshot 2023-12-03 154714.png")
 
 ## Getting Started
 
 ### Prerequisites
 
 - Web browser (Chrome, Firefox, Safari, etc.)
+
+## Customization
+
+### Styling Changes
+
+To make styling changes, you can modify the CSS file located at `styles/style.css`. This file contains styles for various elements in the code editor. Feel free to update colors, fonts, or any other visual aspects to match your preferences.
+
+Example of modifying font size in `style.css`:
+
+```css
+/* styles/style.css */
+
+body {
+  font-size: 16px; /* Adjust the font size as needed */
+}
+```
 
 ### Installation
 
