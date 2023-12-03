@@ -37,7 +37,7 @@ body {
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/code-editor.git
+   git clone https://github.com/tsinghal451/Code-Editor.git
    
 ## Usage
 
