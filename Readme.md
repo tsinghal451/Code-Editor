@@ -15,8 +15,7 @@ You can try out the [live demo here](#).
 
 ## Screenshots
 
-![Code Editor Screenshot](<img width="960" alt="Screenshot 2023-12-03 154714" src="https://github.com/tsinghal451/Code-Editor/assets/72409849/842f2b8a-04ac-4f20-8b40-70a9a15ded76">
-)
+![Code Editor Screenshot]("C:\Users\pc\Pictures\Screenshots\Screenshot 2023-12-03 154714.png")
 
 ## Getting Started
 
